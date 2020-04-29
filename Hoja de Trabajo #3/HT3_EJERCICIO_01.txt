@@ -1,0 +1,7 @@
+Sergio	18	Guatemala	2500
+danilo	45	Guatemala	2500
+Teo	25	Venezuela	3900
+Sergio	18	Guatemala	2500
+Julio	19	Guatemala	2500
+Neymar	28	Bracile¤o	3900
+Messi	35	Argentina	3900
